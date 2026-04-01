@@ -11,7 +11,7 @@
 
 <br>
 
-Your colleague jumped ship to TSMC, leaving behind a mountain of unmaintained docs?<br>
+Your colleague jumped ship to a big company, leaving behind a mountain of unmaintained docs?<br>
 Your intern left, nothing but an empty desk and a half-finished project?<br>
 Your senior graduated, taking all the context and experience with them?<br>
 Your partner transferred teams, and the chemistry you built reset to zero overnight?<br>
@@ -104,7 +104,7 @@ In Claude Code, type:
 /create-colleague
 ```
 
-Follow the prompts: enter an alias, company/level (e.g. `MediaTek Senior Backend Engineer`), personality tags, then choose a data source. All fields can be skipped — even a description alone can generate a Skill.
+Follow the prompts: enter an alias, company/level (e.g. `IC Design Co. Senior Backend Engineer`), personality tags, then choose a data source. All fields can be skipped — even a description alone can generate a Skill.
 
 Once created, invoke the colleague Skill with `/{slug}`.
 
@@ -123,7 +123,7 @@ Once created, invoke the colleague Skill with `/{slug}`.
 
 ## Demo
 
-> Input: `MediaTek Senior Backend Engineer, INTJ, blame-shifter, MediaTek-style`
+> Input: `IC Design Co. Senior Backend Engineer, INTJ, blame-shifter, IC-design-style`
 
 **Scenario 1: Code Review**
 
@@ -165,19 +165,19 @@ Execution: `Receive task → Persona decides attitude → Work Skill executes �
 **Personality**: Responsible · Blame-shifter · Perfectionist · Good-enough · Procrastinator · PUA master · Office politician · Managing-up expert · Passive-aggressive · Flip-flopper · Quiet · Read-no-reply …
 
 **Corporate culture**:
-- TSMC-style (disciplined, SOP-driven, data-speaks, yield-first, hierarchical)
-- MediaTek-style (pragmatic, cost-conscious, fast iteration, time-to-market first)
-- Trend Micro-style (international, English comms, work-life balance, deep tech)
+- Semiconductor-style (disciplined, SOP-driven, data-speaks, yield-first, hierarchical)
+- IC-design-style (pragmatic, cost-conscious, fast iteration, time-to-market first)
+- Global-tech-style (international, English comms, work-life balance, deep tech)
 - Traditional-industry-in-transition (boss decides, long processes, transformation anxiety, stability-first)
 - Foreign-company-style (English comms, flat org, feedback culture, 1:1s)
-- Shopee-style (hypergrowth, KPI-driven, young culture, intense competition)
+- E-commerce-style (hypergrowth, KPI-driven, young culture, intense competition)
 - First-principles · OKR-obsessed · Tech-industry-pipeline · Startup-mode
 
 **Levels**:
-- TSMC (Engineer → Senior → Section Manager → Deputy Manager → Manager → Division Director)
-- MediaTek (Engineer → Senior → Section Manager → Manager → Division Director)
+- Semiconductor Co. (Engineer → Senior → Section Manager → Deputy Manager → Manager → Division Director)
+- IC Design Co. (Engineer → Senior → Section Manager → Manager → Division Director)
 - Foreign companies — Google/Meta/Microsoft (L3~L8, SDE I~III → Senior → Staff → Principal)
-- Trend Micro (Engineer → Senior → Staff → Principal)
+- Global Tech Co. (Engineer → Senior → Staff → Principal)
 - General tech (Junior → Mid → Senior → Lead → Manager → Director)
 - Traditional industry (Specialist → Team Lead → Section Chief → Deputy Manager → Manager → Associate VP → VP)
 

@@ -59,9 +59,9 @@ allowed-tools: Read, Write, Edit, Bash
 
 1. **花名/代號**（必填）
 2. **基本資訊**（一句話：公司、職級、職位、性別，想到什麼寫什麼）
-   - 示例：`聯發科 資深後端工程師 男`
+   - 示例：`IC 設計廠 資深後端工程師 男`
 3. **性格畫像**（一句話：MBTI、星座、個性標籤、企業文化、印象）
-   - 示例：`INTJ 摩羯座 甩鍋高手 聯發科風 CR很嚴格但從來不解釋原因`
+   - 示例：`INTJ 摩羯座 甩鍋高手 IC 設計廠風 CR很嚴格但從來不解釋原因`
 
 除姓名外均可跳過。收集完後彙總確認再進入下一步。
 
@@ -370,9 +370,9 @@ Refer to `${CLAUDE_SKILL_DIR}/prompts/intake.md` for the question sequence. Only
 
 1. **Alias / Codename** (required)
 2. **Basic info** (one sentence: company, level, role, gender — say whatever comes to mind)
-   - Example: `MediaTek Senior backend engineer male`
+   - Example: `IC Design Co. Senior backend engineer male`
 3. **Personality profile** (one sentence: MBTI, zodiac, traits, corporate culture, impressions)
-   - Example: `INTJ Capricorn blame-shifter MediaTek-style strict in CR but never explains why`
+   - Example: `INTJ Capricorn blame-shifter IC Design Co.-style strict in CR but never explains why`
 
 Everything except the alias can be skipped. Summarize and confirm before moving to the next step.
 

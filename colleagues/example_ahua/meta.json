@@ -5,7 +5,7 @@
   "updated_at": "2026-03-30T00:00:00Z",
   "version": "v1",
   "profile": {
-    "company": "聯發科",
+    "company": "某 IC 設計公司",
     "level": "資深工程師",
     "role": "後端工程師",
     "gender": "男",
@@ -13,7 +13,7 @@
   },
   "tags": {
     "personality": ["甩鍋高手", "話少", "數據驅動", "果斷"],
-    "culture": ["聯發科風", "OKR 狂熱者"]
+    "culture": ["IC 設計廠風", "OKR 狂熱者"]
   },
   "impression": "喜歡在 code review 時突然丟出一個問題讓所有人啞口無言，但他通常是對的",
   "knowledge_sources": [],
